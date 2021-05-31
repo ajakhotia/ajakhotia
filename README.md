@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajakhotia
+- 👋 Hi, I’m Anurag
 - 👀 I’m interested in robots, software, automation, C++, linear algebra, optimization, computer vision, AI & ML 
 - 🌱 I’m currently learning minimal & free CI/CD setups for small projects
 - 💞️ I’m looking to collaborate on anything related to above.
