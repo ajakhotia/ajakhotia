@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Anurag
-- 👀 I’m interested in robots, software, automation, C++, linear algebra, optimization, computer vision, AI & ML 
-- 🌱 I’m currently learning minimal & free CI/CD setups for small projects
-- 💞️ I’m looking to collaborate on anything related to above.
-- 📫 Reach me by creating an issue on ajakhotia/ajakhotia repository.
+Interested in following topics:
+ - Macine vision (3D & Camera based perception)
+ - State Estimation & SLAM
+ - Assured position, navigation, and timing (APNT)
+ - Robotics
+ - Applied mathematics - Optimization & geometry
 
 <!---
 ajakhotia/ajakhotia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
